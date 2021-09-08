@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\hapym\Desktop\CppGames\FunGame\FunGame\main.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hapym\Desktop\CppGames\FunGame\FunGame\main.cpp(107,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\hapym\Desktop\CppGames\FunGame\FunGame\main.cpp(107,58): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  FunGame.vcxproj -> C:\Users\hapym\Desktop\CppGames\FunGame\x64\Debug\FunGame.exe
